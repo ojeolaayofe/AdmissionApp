@@ -1,0 +1,41 @@
+body{
+	background-color:lightgrey;
+	/*height:90px; 
+	width: 100%;*/
+	margin-left:: 1000%;
+	width: 500px;
+	height: 100px;
+}
+#table{
+	border:2;
+	text-align:center;
+	 background-color:#977083
+}
+#name{
+	width:100%;
+	height: 30px;
+}
+#jamb{
+	width:100%;
+}
+#submit{
+	padding-left: 30%;
+}
+#move{
+	background-color:black;
+	color:orange;
+	padding:5px;
+	margin-right: 60px;
+}
+#portal{
+	background-color:green; 
+	color:white;
+	font-weight:bold;
+}
+#subject{
+	background-color:green;
+	/*color:white;*/
+}
+h4{
+	text-align:center;
+}
